@@ -36,7 +36,7 @@ else
     echo "Destination directory already exists: $destination_path"
 fi
 
-# Perform the backup
+# make the backup
 make_backup "$source_path" "$destination_path"
 
 
