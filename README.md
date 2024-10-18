@@ -5,6 +5,30 @@ This is a script that automatize the backups of the system.
 
 Clone the repository:
 
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/akhos09/alacrittyforge
+   ```
+
+2. **Navigate to the script's directory**:
+
+   ```bash
+   cd alacrittyforge/
+   ```
+
+3. **Make the script executable**:
+
+   ```bash
+   chmod +x alacrittyforge.sh
+   ```
+
+4. **Run the script**:
+
+   ```bash
+   ./alacrittyforge.sh
+   ```
+
 <hr><hr>
 git clone https://github.com/TheHellishPandaa/backup-script.git
 <hr><hr>
