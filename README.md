@@ -11,11 +11,8 @@ git clone https://github.com/TheHellishPandaa/backup-script.git
 Then, navegate into directory.
 <hr><hr>
  ```bash
-   cd backup-script/
-   ``
-    ```bash
-   cd alacrittyforge/
-   ```
+ cd backup-script/  ``
+   
 <hr><hr>
 then, give permissions before execute the script
 <hr><hr>
