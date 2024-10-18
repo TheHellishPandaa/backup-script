@@ -13,6 +13,9 @@ Then, navegate into directory.
  ```bash
    cd backup-script/
    ``
+    ```bash
+   cd alacrittyforge/
+   ```
 <hr><hr>
 then, give permissions before execute the script
 <hr><hr>
