@@ -10,7 +10,9 @@ git clone https://github.com/TheHellishPandaa/backup-script.git
 <hr><hr>
 Then, navegate into directory.
 <hr><hr>
-cd backup-script
+ ```bash
+   cd backup-script/
+   ``
 <hr><hr>
 then, give permissions before execute the script
 <hr><hr>
