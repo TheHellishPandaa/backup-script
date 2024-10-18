@@ -14,10 +14,10 @@ cd backup-script
 <hr><hr>
 then, give permissions before execute the script
 <hr><hr>
-chmod +x backup-script.sh
+chmod +x backup.sh
 <hr><hr>
 then, execute the script
 <hr><hr>
-./backup-script.sh
+./backup.sh
 <hr><hr>
 Automatize your Backups ;)
