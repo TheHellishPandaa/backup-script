@@ -8,41 +8,26 @@ Clone the repository:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/akhos09/alacrittyforge
+   git clone https://github.com/TheHellishPandaa/backup-script.git
    ```
 
 2. **Navigate to the script's directory**:
 
    ```bash
-   cd alacrittyforge/
+   cd backup-script
    ```
 
 3. **Make the script executable**:
 
    ```bash
-   chmod +x alacrittyforge.sh
+   chmod +x backup.sh
    ```
 
 4. **Run the script**:
 
    ```bash
-   ./alacrittyforge.sh
+   ./backup.sh
    ```
-
-<hr><hr>
-git clone https://github.com/TheHellishPandaa/backup-script.git
-<hr><hr>
-Then, navegate into directory.
-<hr><hr>
- cd backup-script
-<hr><hr>
-then, give permissions before execute the script
-<hr><hr>
-chmod +x backup.sh
-<hr><hr>
-then, execute the script
-<hr><hr>
-./backup.sh
 <hr><hr>
 Automatize your Backups ;)
 
