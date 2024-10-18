@@ -1,7 +1,7 @@
 # backup-script
 This is a script that automatize the backups of the system.  
 
-Installation & Usage
+<h2><strong>Installation & Usage</strong></h2>
 
 Clone the repository:
 
